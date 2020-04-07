@@ -1,0 +1,26 @@
+pwd
+mkdir abc
+cd abc
+addf f3
+addf f2
+addf f1
+ls
+mkdir def
+ls
+cd cdf
+cd def
+pwd
+cd ..
+ls
+cd ..
+pwd
+ls
+cd abc
+pwd
+ls
+rm f5
+rm f2
+ls
+mv f3 file3
+ls
+bye

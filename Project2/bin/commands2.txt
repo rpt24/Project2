@@ -1,0 +1,30 @@
+mkdir test
+ls
+mkdir test2
+mkdir test3
+mkdir test4
+mkdir test5
+mkdir test6
+mkdir test7
+rm test
+ls
+rm test5
+ls
+bye
+cd test2
+pwd
+cd fake
+mkdir inTest2
+cd inTest2
+ls
+pwd
+cd ..
+cd ..
+ls
+pwd
+addf file1
+addf file2
+ls
+cd file1
+cd file2
+mkdir test2
